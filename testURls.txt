@@ -1,0 +1,6 @@
+https://sqs.ap-south-1.amazonaws.com/066325793814/CytelSimulation.fifo
+
+localhost:53745/weatherforecast
+
+
+https://www.newline.co/fullstack-react/articles/deploying-a-react-app-to-s3/
